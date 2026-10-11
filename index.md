@@ -8,7 +8,10 @@ I am a data science student who enjoys turning data into useful insights. I work
 
 ## Projects
 
-Projects will be added here soon.
+### Hotel Performance Dashboard (Power BI)
+An end-to-end Power BI project analysing hotel revenue, occupancy, bookings and cancellations across cities, room classes and booking platforms. I cleaned the data in Power Query, built a data model, wrote 24 DAX measures and designed a 3-page dashboard.
+
+[View the project on GitHub](https://github.com/Docc-a/Hotel_PowerBI_Dashboard)
 
 ## Contact
 
